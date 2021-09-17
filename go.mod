@@ -9,4 +9,4 @@ require (
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1
 )
 
-replace github.com/cosmos72/gomacro v0.0.0-20210624153544-b4935e406a41 => github.com/dzbarsky/gomacro
+replace github.com/cosmos72/gomacro => github.com/dzbarsky/gomacro v0.0.0-20210917175646-53f2277f6e38
