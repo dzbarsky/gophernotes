@@ -1,7 +1,5 @@
-github.com/cosmos72/gomacro v0.0.0-20210616163416-8aad74544f77 h1:Kp79qVeRyuqwk0eIclhfA+tHoYg37BUfOrWOYHaWuYM=
-github.com/cosmos72/gomacro v0.0.0-20210616163416-8aad74544f77/go.mod h1:h3apSc2xEBPz29JyJ0VRpUUMinufrpAZ3JXhWN8aVB4=
-github.com/cosmos72/gomacro v0.0.0-20210624153544-b4935e406a41 h1:4KyZP6hbXqauUCvY+yeq8QCjc4/OM6ssNqIJR/aqqrI=
-github.com/cosmos72/gomacro v0.0.0-20210624153544-b4935e406a41/go.mod h1:h3apSc2xEBPz29JyJ0VRpUUMinufrpAZ3JXhWN8aVB4=
+github.com/dzbarsky/gomacro v0.0.0-20210917175646-53f2277f6e38 h1:QpcDP/97PfUeSB9pic+LItbS8lRz+X3k6pWCw2Gk4M8=
+github.com/dzbarsky/gomacro v0.0.0-20210917175646-53f2277f6e38/go.mod h1:h3apSc2xEBPz29JyJ0VRpUUMinufrpAZ3JXhWN8aVB4=
 github.com/go-zeromq/goczmq/v4 v4.2.2 h1:HAJN+i+3NW55ijMJJhk7oWxHKXgAuSBkoFfvr8bYj4U=
 github.com/go-zeromq/goczmq/v4 v4.2.2/go.mod h1:Sm/lxrfxP/Oxqs0tnHD6WAhwkWrx+S+1MRrKzcxoaYE=
 github.com/go-zeromq/zmq4 v0.13.0 h1:XUWXLyeRsPsv4KlKMXnv/cEm//Vew2RLuNmDFQnZQXU=
