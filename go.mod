@@ -8,3 +8,6 @@ require (
 	github.com/gofrs/uuid v4.0.0+incompatible
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1
 )
+
+// awaiting upstream accepting support for map types https://github.com/google/starlark-go/pull/379
+replace github.com/cosmos72/gomacro v0.0.0-20210624153544-b4935e406a41 => github.com/dzbarsky/gomacro
